@@ -9,7 +9,7 @@
 <img height="" src="https://user-images.githubusercontent.com/104998959/211215772-61d116f2-c38b-4f9b-b757-2d9e075a1dc4.png" align = "center"/><br/>
 <br/>
 🔗Login and logout<br/>
-! API: <a href="#">127.0.0.1:8000/</a><br/>
+! API: <a href="#">127.0.0.1:8000/api_auth</a><br/>
 <img height="" src="https://user-images.githubusercontent.com/104998959/211216343-baabef85-0880-4487-9643-42a1a399626f.png" align = "center"/><br/>
 <br/>
 
