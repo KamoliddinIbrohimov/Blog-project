@@ -1,6 +1,6 @@
 # Blog-project
 <h2>A blog for users to post</h2><br/>
-👀 Follow projects through my telegram channel:<a href="https://t.me/my_partfolio_web" target='_blank'><img height="30em" src="https://telegra.ph/file/6dab703f0e680b0ed613f.png" alt = "Telegram"/></a>
+👀 Follow projects through my telegram channel:<a href="https://t.me/my_partfolio_web/8" target='_blank'><img height="30em" src="https://telegra.ph/file/6dab703f0e680b0ed613f.png" alt = "Telegram"/></a>
 <br/>
 
 <h2>This is the work done in this project:</h2><br/>
